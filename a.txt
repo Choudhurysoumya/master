@@ -1,0 +1,3 @@
+master slave configuration
+plugin details
+jdk and apache tomcat
